@@ -1,0 +1,23 @@
+{
+  "answer": "not in docs.",
+  "top_k_chunks": [
+    {
+      "idx": 2,
+      "score": null,
+      "doc": "data\\doc1.md",
+      "text": "emphasizes receiving plans that include detailed design and cost plans with transparent pricing and “no hidden surprises.” Q: What makes contractor payments “stage-based”? A: The “Why Us” section states payments are released only after verified completion. (End of document)"
+    },
+    {
+      "idx": 5,
+      "score": null,
+      "doc": "data\\doc2.md",
+      "text": "₹32,000 (Cera, Hindware / equivalent) - Premier: up to ₹50,000 (Parryware / equivalent) - Infinia: up to ₹70,000 (Jaquar / Essco / equivalent) - Pinnacle: up to ₹80,000 (Kohler / equivalent) ### CPVC Pipe - Essential: APL Apollo / Ashirwad / equivalent - Premier: APL Apollo / Ashirwad / equivalent - Infinia: APL Apollo / Ashirwad / Supreme / Astral or equivalent - Pinnacle: APL Apollo / Ashirwad / Supreme / Astral or equivalent ## 5) Doors & Windows (Highlights) ### Main Door (Wallet Amount; includes fittings & labour) - Essential: Panelled door; wallet up to ₹20,000 - Premier: Teak door; wallet up to ₹30,000 - Infinia: Teak door; wallet up to ₹40,000 - Pinnacle: Teak door; wallet up to ₹50,000 ### Windows (3-track with mosquito mesh) — Wallet per sqft - Essential: Aluminium/UPVC up to ₹440/sqft - Premier: UPVC up to ₹500/sqft (Lesso eiti or equivalent) - Infinia: UPVC up to ₹600/sqft - Pinnacle: UPVC up to ₹700/sqft ## 6) Painting (Brand-Level Guidance) ### Interior Painting - Base process: 2-coat JK Putty + 1-coat Primer + 2-coat Emulsion - Essential: Asian Paints Tractor Emulsion (or equivalent) - Premier: Asian Paints Tractor Emulsion Advanced (or equivalent) - Infinia: Asian Paints Tractor Emulsion Shyne (or equivalent) - Pinnacle: Asian Paints Royale Emulsion (or equivalent) ### Exterior Painting - Base process: 1-coat Primer + 2-coat Exterior Emulsion - Essential: Asian Paints Ace Emulsion (or equivalent) - Premier: Asian Paints Ace Shyne Emulsion (or equivalent) - Infinia: Asian Paints Apex Emulsion (or equivalent)"
+    },
+    {
+      "idx": 4,
+      "score": null,
+      "doc": "data\\doc2.md",
+      "text": "block - 4\": up to ₹33 (+/- ₹3) per block ### RCC Mix - M20 or M25 (RCC design mix as advised by the structural engineer) ### Ceiling Height - Floor-to-floor height: 10 ft (across packages) ## 3) Kitchen (Wallet Allowances) Note: The page states fittings can be customized at cost. ### Ceramic Wall Dado - Essential: up to ₹40/sqft - Premier: up to ₹60/sqft - Infinia: up to ₹80/sqft - Pinnacle: up to ₹90/sqft ### Sink (Futura or equivalent) - Essential: up to ₹4,000 (single bowl) - Premier: up to ₹7,000 (single bowl) - Infinia: up to ₹9,000 (single bowl with drain board) - Pinnacle: up to ₹10,000 (single bowl with drain board) ### Sink Faucet - Essential: Parryware/Hindware or equivalent up to ₹2,000 - Premier: Parryware/Hindware or equivalent up to ₹2,500 - Infinia: Jaquar/Essco or equivalent up to ₹3,500 - Pinnacle: Jaquar/Essco or equivalent up to ₹4,000 ## 4) Bathroom (Wallet Allowances) Note: The page states fittings can be customized at cost. ### Ceramic Wall Dado - Essential: up to ₹40/sqft - Premier: up to ₹60/sqft - Infinia: up to ₹80/sqft - Pinnacle: up to ₹90/sqft ### Sanitary & CP Fittings (per 1000 sqft) - Essential: up to ₹32,000 (Cera, Hindware / equivalent) - Premier: up to ₹50,000 (Parryware / equivalent) - Infinia: up to ₹70,000 (Jaquar / Essco / equivalent) - Pinnacle: up to ₹80,000 (Kohler / equivalent) ### CPVC Pipe - Essential: APL Apollo / Ashirwad / equivalent - Premier: APL Apollo / Ashirwad / equivalent"
+    }
+  ]
+}

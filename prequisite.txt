@@ -1,0 +1,7 @@
+requests
+openai 
+python-dotenv 
+faiss-cpu 
+numpy 
+tiktoken
+streamlit
